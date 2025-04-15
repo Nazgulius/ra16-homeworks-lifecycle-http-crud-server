@@ -1,1 +1,3 @@
-# ra16-homeworks-lifecycle-http-crud-server
+# Жизненный цикл и работа с HTTP
+
+## CRUD Server
